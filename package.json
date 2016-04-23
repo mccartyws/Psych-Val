@@ -1,7 +1,7 @@
 {
   "name": "tone-analyzer-nodejs",
   "version": "3.1.1",
-  "description": "Web application that uses Tone Analyzer to get the tone from a text message",
+  "description": "Using TOne analyzer for tweets",
   "repository": {
     "type": "git",
     "url": "https://github.com/watson-developer-cloud/tone-analyzer-nodejs.git"
